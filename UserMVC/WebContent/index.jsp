@@ -13,7 +13,7 @@
 			<a href="fetch.jsp">login</a>
 				<br><br>
 			<a href="addUser.jsp">add user</a>
-
+<p>New Git Changes to be done</p>
 </center>
 </body>
 </html>
